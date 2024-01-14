@@ -1,0 +1,28 @@
+{
+    "age":45,
+    "blood_pressure":80,
+    "specific_gravity":1.5,
+    "albumin":1,
+    "sugar":0,
+    "red_blood_cells":1,
+    "pus_cell":0,
+    "pus_cell_clumps":1,
+    "bacteria":1,
+    "blood_glucose_random":121,
+    "blood_urea":38,
+    "serum_creatinine":1.5,
+    "sodium":140,
+    "potassium":5.5,
+    "haemoglobin":14.5,
+    "packed_cell_volume":44,
+    "white_blood_cell_count":7800,
+    "red_blood_cell_count":5.2,
+    "hypertension":1,
+    "diabetes_mellitus":2,
+    "coronary_artery_disease":1,
+    "appetite":0,
+    "peda_edema":1,
+    "aanemia":1
+
+
+}
