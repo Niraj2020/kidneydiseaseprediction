@@ -90,10 +90,10 @@ def predict_datapoint():
             predict=model.predict(new_data)
 
             if predict[0]==1:
-                result ='The Person is not Healthy as suffering with Kidney Disease'
+                result ='Person is not Healthy as suffering with Kidney Disease'
                 
             else:
-                result='The Person is Healthy, Do not have Kidney Disease'
+                result='Person is Healthy, Do not have Kidney Disease'
         
             return render_template('result.html', result=result)
        
